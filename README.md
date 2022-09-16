@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #NLW eSports
 
 >trilha Explorer 
