@@ -15,7 +15,7 @@ Projeto construido no evento Next Level Week da Rocketseat.
 
 ## O que aprendi
 
-- CSS transition
+- CSS transition / @keyframes / animações
 - Display flex
 - listas
 - posionamentos dos elementos
