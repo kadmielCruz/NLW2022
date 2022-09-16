@@ -15,14 +15,14 @@ Projeto construido no evento Next Level Week da Rocketseat.
 
 ## O que aprendi
 
-- CSS transition / @keyframes / animações
+- CSS transition / @keyframes / um pouco de animações
 - Display flex
-- listas
-- posionamentos dos elementos
--versionamento de codigo
-- um pouco de manipulação svg
+- Listas
+- Posionamentos dos elementos
+- Versionamento de codigo
+- Um pouco de manipulação svg
 - Organização de arquivos
--novas funcionalidades do VScode  
+- Novas funcionalidades do VScode  
 ## ✉️ contato 
 
 kadmieldossantos@gmail.com
